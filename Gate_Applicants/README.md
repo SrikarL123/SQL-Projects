@@ -1,8 +1,8 @@
 # GATE Applicants SQL Project
 
-This project analyzes GATE (Graduate Aptitude Test in Engineering) applicants' data using SQL. 
-The database contains details like paper codes, paper names, number of applicants, 
-and number of candidates who appeared for each paper in the year 2019.
+This project analyzes data from GATE (Graduate Aptitude Test in Engineering) applicants using SQL. 
+The database contains details like paper codes, paper names, the number of applicants, 
+and the number of candidates who appeared for each paper in the year 2019.
 
 
 ## What this project does
