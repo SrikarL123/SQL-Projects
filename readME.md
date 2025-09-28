@@ -4,9 +4,6 @@
 
 This project performs an exploratory data analysis (EDA) on an Amazon sales report dataset. The primary objective is to clean the raw data and use SQL queries to extract meaningful insights about sales performance, customer behavior, and product category trends.
 
-## 🧰 Tools Used
-
-  * **SQL**
 
 ## 🧹 Data Cleaning
 
