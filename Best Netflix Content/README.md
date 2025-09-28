@@ -1,6 +1,6 @@
 
 
-### Project Title: **Top-Rated Content in Netflix Analysis**
+### Project Title: **Best Netflix Content**
 
 ### Executive Summary
 
