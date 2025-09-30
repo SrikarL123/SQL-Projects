@@ -33,16 +33,19 @@ The analysis focuses on **customer behavior, product performance, and revenue in
 
    * Identifies the highest-spending customers.
    * SQL concepts: `SUM`, `GROUP BY`, `ORDER BY DESC`.
+   * **Image:** `Top Customers by Revenue.png`
 
 2. **Top Customers by Most Frequent SKU**
 
    * Shows which products are repeatedly purchased by top customers.
    * SQL concepts: `COUNT`, `GROUP BY`, `ORDER BY`.
+   * **Image:** `Top Customers by Most Frequent_SKU.png`
 
 3. **Customer Segmentation by Order Quantity**
 
    * Segments customers into High / Medium / Low value categories based on total revenue.
    * SQL concepts: `CASE` statements, `SUM`, `GROUP BY`.
+   * **Image:** `Customer_Segmentation.png`
 
 ---
 
@@ -52,16 +55,19 @@ The analysis focuses on **customer behavior, product performance, and revenue in
 
    * Finds top-selling products by quantity and revenue.
    * SQL concepts: `SUM`, `GROUP BY`, `ORDER BY`.
+   * **Image:** `Best-Selling Products.png`
 
 5. **Quantity vs Revenue Efficiency**
 
    * Highlights products with the highest revenue per unit sold.
    * SQL concepts: `SUM`, calculated columns, `GROUP BY`.
+   * **Image:** `Quantity vs Revenue Efficiency.png`
 
 6. **SKU / Style Contribution to Revenue**
 
    * Shows top products contributing the most to total revenue as a percentage of overall sales.
    * SQL concepts: subqueries, `SUM`, calculated percentages.
+   * **Image:** `SKU Style Contribution to Revenue.png`
 
 ---
 
@@ -73,4 +79,3 @@ The analysis focuses on **customer behavior, product performance, and revenue in
 * Provides a **data-driven foundation** for business strategy and decision-making.
 
 ---
-
