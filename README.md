@@ -21,3 +21,9 @@ Identified the top 10 highest-rated titles from a large Netflix dataset. A singl
 
 ### 3. GATE Applicants
 Determined the most popular engineering disciplines from GATE applicant data. By cleaning the dataset and using SQL to filter for the year 2019 and rank by applicant count, the analysis identified **Mechanical, Civil, and Computer Science** as the top fields.
+
+### 4. International Sales Analysis
+Examined international sales data using advanced SQL to uncover top customers, best-selling products, and revenue drivers. Through aggregation, segmentation, and subqueries, the project revealed key revenue sources and customer value patterns for strategic decision-making.
+
+### 5. E-Commerce Sales Analysis (May 2022)
+Analyzed May 2022 e-commerce sales data to explore pricing trends, discounts, and category performance. SQL queries identified profitable categories and platform-specific pricing insights, highlighting key margins and promotional patterns in online retail.
